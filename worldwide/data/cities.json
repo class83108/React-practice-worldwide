@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Pradena de Atienza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-06T04:56:25.541Z",
+      "notes": "123",
+      "position": {
+        "lat": "41.19351757452275",
+        "lng": "-3.0315016077776473"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Sarrant",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-03-06T06:15:17.449Z",
+      "notes": "12313",
+      "position": {
+        "lat": "43.78624601034763",
+        "lng": "0.9072179723031539"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-03-06T08:22:20.857Z",
+      "notes": "12313",
+      "position": {
+        "lat": "41.49071458625489",
+        "lng": "-0.8754310094841201"
+      },
+      "id": 98443200
+    }
+  ]
+}
